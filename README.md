@@ -1,2 +1,2 @@
-# precurse-henry
-Repositorio para pruebas en modulo 2
+# este proyecto es una prueba de como crear un repositorio y clonarlo a mi repositorio local
+
